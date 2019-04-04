@@ -1,0 +1,26 @@
+{
+  "name": "userscripts",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "scripts": {
+    "test": "eslint --ext .js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nscyclone/userscripts.git"
+  },
+  "author": {
+    "name": "Dmitry Lebedev",
+    "url": "https://github.com/nscyclone"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nscyclone/userscripts/issues"
+  },
+  "homepage": "https://github.com/nscyclone/userscripts#readme"
+}
