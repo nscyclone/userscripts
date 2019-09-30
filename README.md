@@ -18,7 +18,10 @@ A small collection of various userscripts.
 
 2. Install a script:
 
-    * [Redmine Saved Replies](https://raw.githubusercontent.com/nscyclone/userscripts/master/redmine-saved-replies/redmine-saved-replies.user.js) - allows to store and use saved replies in Redmine commentaries.
+    * [Redmine Saved Replies](https://raw.githubusercontent.com/nscyclone/userscripts/master/redmine-saved-replies/redmine-saved-replies.user.js) - allows to store and use saved replies in Redmine commentaries. 
+    Expected to be used at `https://REDMINE_URL/issues/*`.
+    * [Redmine Custom Fields Summary](https://raw.githubusercontent.com/nscyclone/userscripts/master/redmine-custom-fields-summary/redmine-custom-fields-summary.user.js) - allows to sum numeric custom fields on the project issues page in Redmine.
+    Expected to be used at `https://REDMINE_URL/projects/*/issues*`.
     
 3. [Configure script's includes and excludes](https://tampermonkey.net/faq.php#Q103) if necessary.
 
